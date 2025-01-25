@@ -1,0 +1,13 @@
+{
+  "name": "social-media-scrapper",
+  "version": "1.0.0",
+  "description": "A Scrapper which tack URL and provide information of user on any website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "pathan-faizaan-khan",
+  "license": "ISC"
+}
