@@ -27,7 +27,7 @@ A robust and modular Node.js-based scraper for extracting user data from popular
 1. Just run the command
 
     ```bash
-    npm run dev <link>
+    node index.js <link>
 
 ## Installation
 
